@@ -4,7 +4,7 @@
 
 🎈 Origin： https://coding.imooc.com/learn/list/285.html
 
-🎈 Summary：
+🎈 Summary：https://ymlog.cn/2021/01/22/前端 WebBookApp总结/
 
 🎈 Github Repository： https://github.com/ArchKS/eBook
 
