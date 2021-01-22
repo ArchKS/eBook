@@ -1,0 +1,114 @@
+$animationTime: .2s;
+$ratio: 375 / 10;
+$settingHeight: 6rem;
+$settingBottom: 2.7rem;
+$boxShadowUp: 0 -0.5rem 0.5rem rgba(0, 0, 0, 0.15);
+
+
+/* 绝对布局的居中 @include absCenter; */
+@mixin absCenter {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* flex居中 @include center;  */
+@mixin center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* flex水平居中 @include horizonCenter; */
+@mixin horizonCenter {
+  display: flex;
+  justify-content: center;
+}
+
+
+/* @include left; */
+@mixin left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+/* 右对齐 @include right; */
+@mixin right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* @include ellipsis; */
+@mixin ellipsis {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+
+/* @include ellipseWithLine(3); */
+@mixin ellipseWithLine($line) {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $line;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: keep-all;
+}
+
+/* 上下排列 */
+@mixin columnBetween {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* 垂直布局 @include vertical; */
+@mixin vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 垂直居中  @include verticalCenter; */
+@mixin verticalCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* flex 排列两端 @include twoSide; */
+@mixin twoSide {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* flex 排列两端 @include twoSideWidthGap; */
+@mixin twoSideWidthGap {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+
+/* @include flexAround; */
+@mixin flexAround {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+/* 左对齐且垂直居中: @include leftAndColCenter; */
+@mixin leftAndColCenter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
