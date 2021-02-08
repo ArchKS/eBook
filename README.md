@@ -18,10 +18,10 @@
 </p>
 
 <p float="left">
-<img src="./static/showimg/5.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/6.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/7.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/8.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/5.png" style="width: 23%;" />
+<img src="./static/showimg/6.png" style="width: 23%;" />
+<img src="./static/showimg/7.png" style="width: 23%;" />
+<img src="./static/showimg/8.png" style="width: 23%;" />
 <p>
 
 <p float="left">
