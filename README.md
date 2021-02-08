@@ -8,11 +8,15 @@
 
 🎈 效果演示视频： https://www.bilibili.com/video/BV1Yt4y167c8
 
-**共计46个组件，涉及到的技术有： h5 css3 vue vuex vue-router ePub.js scss node nginx**
+**共计46个组件，涉及到的技术有：**
 
----
+> h5 css3 vue vuex vue-router ePub.js scss node nginx
 
-**截图演示**
+
+
+## 截图演示
+
+
 <p align="middle">
 <img src="./static/showimg/1.png" width="24%" />
 <img src="./static/showimg/2.png" width="24%" />
@@ -20,14 +24,14 @@
 <img src="./static/showimg/4.png" width="24%" />
 </p>
 
-<p float="left">
+<p align="middle">
 <img src="./static/showimg/5.png" width="24%" />
 <img src="./static/showimg/6.png" width="24%" />
 <img src="./static/showimg/7.png" width="24%" />
 <img src="./static/showimg/8.png" width="24%" />
 <p>
 
-<p float="left">
+<p align="middle">
 <img src="./static/showimg/9.png"  width="24%" />
 <img src="./static/showimg/10.png" width="24%" />
 <img src="./static/showimg/11.png" width="24%" />
@@ -35,16 +39,20 @@
 </p>
 
 
-<p float="left">
+<p align="middle">
 <img src="./static/showimg/13.png" width="24%" />
 <img src="./static/showimg/14.png" width="24%" />
 <img src="./static/showimg/15.png" width="24%" />
 <img src="./static/showimg/16.png" width="24%" />
 </p>
 
-Usage:
 
-```
+
+## Usage:
+
+```bash
+git clone git@github.com:ArchKS/eBook.git ebook
+cd ebook
 yarn
 yarn s
 ```
