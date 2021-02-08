@@ -14,10 +14,10 @@
 
 **截图演示**
 <p float="left">
-<img src="./static/showimg/1.png" width="23%" />
-<img src="./static/showimg/2.png" width="23%" />
-<img src="./static/showimg/3.png" width="23%" />
-<img src="./static/showimg/4.png" width="23%" />
+<img src="./static/showimg/1.png" width="24%" />
+<img src="./static/showimg/2.png" width="24%" />
+<img src="./static/showimg/3.png" width="24%" />
+<img src="./static/showimg/4.png" width="24%" />
 </p>
 
 <p float="left">
@@ -28,18 +28,18 @@
 <p>
 
 <p float="left">
-<img src="./static/showimg/9.png"  width="25%" />
-<img src="./static/showimg/10.png" width="25%" />
-<img src="./static/showimg/11.png" width="25%" />
-<img src="./static/showimg/12.png" width="25%" />
+<img src="./static/showimg/9.png"  width="24%" />
+<img src="./static/showimg/10.png" width="24%" />
+<img src="./static/showimg/11.png" width="24%" />
+<img src="./static/showimg/12.png" width="24%" />
 </p>
 
 
 <p float="left">
-<img src="./static/showimg/13.png"  width="25%" />
-<img src="./static/showimg/14.png" width="25%" />
-<img src="./static/showimg/15.png" width="25%" />
-<img src="./static/showimg/16.png" width="25%" />
+<img src="./static/showimg/13.png" width="24%" />
+<img src="./static/showimg/14.png" width="24%" />
+<img src="./static/showimg/15.png" width="24%" />
+<img src="./static/showimg/16.png" width="24%" />
 </p>
 
 Usage:
