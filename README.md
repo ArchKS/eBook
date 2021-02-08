@@ -1,16 +1,49 @@
-🎈 Author： ZENDU
+🎈 描述：基于Vue3开发的书城项目
 
-🎈 DESCRIBE：A Ebook City  Base On Vue3
+🎈 原作者地址： https://coding.imooc.com/learn/list/285.html
 
-🎈 Origin： https://coding.imooc.com/learn/list/285.html
+🎈 总结：https://ymlog.cn/2021/01/22/前端 WebBookApp总结/
 
-🎈 Summary：https://ymlog.cn/2021/01/22/前端 WebBookApp总结/
+🎈 Github仓库地址：https://github.com/ArchKS/eBook
 
-🎈 Github Repository： https://github.com/ArchKS/eBook
+---
+
+效果演示视频： https://www.bilibili.com/video/BV1Yt4y167c8
 
 
+**共计46个组件，涉及到的技术有： h5 css3 vue vuex vue-router ePub.js scss node nginx**
+
+--- 
+
+**截图演示**
+
+![](./static/showimg/1.png)
+![](./static/showimg/2.png)
+![](./static/showimg/3.png)
+![](./static/showimg/4.png)
+![](./static/showimg/5.png)
+![](./static/showimg/6.png)
+![](./static/showimg/7.png)
+![](./static/showimg/8.png)
+![](./static/showimg/9.png)
+![](./static/showimg/10.png)
+![](./static/showimg/11.png)
+![](./static/showimg/12.png)
+![](./static/showimg/13.png)
+![](./static/showimg/14.png)
+![](./static/showimg/15.png)
+![](./static/showimg/16.png)
 
 
+Usage:
+
+```
+yarn
+yarn s
+```
+
+
+## 开发日志
 
 2020/12/13
 
