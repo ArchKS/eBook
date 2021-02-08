@@ -14,10 +14,7 @@
 
 **截图演示**
 <p float="left">
-<img src="./static/showimg/1.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/2.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/3.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/4.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/1.png" style="width: 194px; height: 336px;" /><img src="./static/showimg/2.png" style="width: 194px; height: 336px;" /><img src="./static/showimg/3.png" style="width: 194px; height: 336px;" /><img src="./static/showimg/4.png" style="width: 194px; height: 336px;" />
 </p>
 
 <p float="left">
