@@ -14,21 +14,24 @@
 
 **截图演示**
 <p float="left">
-<img src="./static/showimg/1.png" style="width: 194; height: 336;" /><img src="./static/showimg/2.png" style="width: 194; height: 336;" /><img src="./static/showimg/3.png" style="width: 194; height: 336;" /><img src="./static/showimg/4.png" style="width: 194; height: 336;" />
+<img src="./static/showimg/1.png" width="23%" />
+<img src="./static/showimg/2.png" width="23%" />
+<img src="./static/showimg/3.png" width="23%" />
+<img src="./static/showimg/4.png" width="23%" />
 </p>
 
 <p float="left">
-<img src="./static/showimg/5.png" width="23%" />
-<img src="./static/showimg/6.png" width="23%" />
-<img src="./static/showimg/7.png" width="23%" />
-<img src="./static/showimg/8.png" width="23%" />
+<img src="./static/showimg/5.png" width="100" />
+<img src="./static/showimg/6.png" width="100" />
+<img src="./static/showimg/7.png" width="100" />
+<img src="./static/showimg/8.png" width="100" />
 <p>
 
 <p float="left">
-<img src="./static/showimg/9.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/10.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/11.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/12.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/9.png" width="194px" />
+<img src="./static/showimg/10.png" width="194px" />
+<img src="./static/showimg/11.png" width="194px" />
+<img src="./static/showimg/12.png" width="194px" />
 </p>
 
 
