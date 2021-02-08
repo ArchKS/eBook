@@ -3,6 +3,7 @@
 
 **线上地址(服务器将于2021/2/14过期)：http://ebook.ymlog.cn/**
 
+**共计46个组件，涉及到的技术有： h5 css3 vue vuex vue-router ePub.js scss node nginx**
 
 <br>
 
