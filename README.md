@@ -13,7 +13,7 @@
 ---
 
 **截图演示**
-<p float="left">
+<p align="middle">
 <img src="./static/showimg/1.png" width="24%" />
 <img src="./static/showimg/2.png" width="24%" />
 <img src="./static/showimg/3.png" width="24%" />
