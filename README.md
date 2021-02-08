@@ -13,24 +13,35 @@
 ---
 
 **截图演示**
+<p float="left">
+<img src="./static/showimg/1.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/2.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/3.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/4.png" style="width: 194px; height: 336px;" />
+</p>
 
-<img src="./static/showimg/1.png" style="zoom: 25%;" />
-<img src="./static/showimg/2.png" style="zoom: 25%;" />
-<img src="./static/showimg/3.png" style="zoom: 25%;" />
-<img src="./static/showimg/4.png" style="zoom: 25%;" />
-<img src="./static/showimg/5.png" style="zoom: 25%;" />
-<img src="./static/showimg/6.png" style="zoom: 25%;" />
-<img src="./static/showimg/7.png" style="zoom: 25%;" />
-<img src="./static/showimg/8.png" style="zoom: 25%;" />
-<img src="./static/showimg/9.png" style="zoom: 25%;" />
-<img src="./static/showimg/10.png" style="zoom: 25%;" />
-<img src="./static/showimg/11.png" style="zoom: 25%;" />
-<img src="./static/showimg/12.png" style="zoom: 25%;" />
-<img src="./static/showimg/13.png" style="zoom: 25%;" />
-<img src="./static/showimg/14.png" style="zoom: 25%;" />
-<img src="./static/showimg/15.png" style="zoom: 25%;" />
-<img src="./static/showimg/16.png" style="zoom: 25%;" />
+<p float="left">
+<img src="./static/showimg/5.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/6.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/7.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/8.png" style="width: 194px; height: 336px;" />
+<p>
 
+
+<p float="left">
+<img src="./static/showimg/9.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/10.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/11.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/12.png" style="width: 194px; height: 336px;" />
+</p>
+
+
+<p float="left">
+<img src="./static/showimg/13.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/14.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/15.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/16.png" style="width: 194px; height: 336px;" />
+</p>
 
 Usage:
 
