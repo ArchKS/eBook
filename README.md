@@ -6,33 +6,30 @@
 
 🎈 Github仓库地址：https://github.com/ArchKS/eBook
 
----
-
-效果演示视频： https://www.bilibili.com/video/BV1Yt4y167c8
-
+🎈 效果演示视频： https://www.bilibili.com/video/BV1Yt4y167c8
 
 **共计46个组件，涉及到的技术有： h5 css3 vue vuex vue-router ePub.js scss node nginx**
 
---- 
+---
 
 **截图演示**
 
-![](./static/showimg/1.png)
-![](./static/showimg/2.png)
-![](./static/showimg/3.png)
-![](./static/showimg/4.png)
-![](./static/showimg/5.png)
-![](./static/showimg/6.png)
-![](./static/showimg/7.png)
-![](./static/showimg/8.png)
-![](./static/showimg/9.png)
-![](./static/showimg/10.png)
-![](./static/showimg/11.png)
-![](./static/showimg/12.png)
-![](./static/showimg/13.png)
-![](./static/showimg/14.png)
-![](./static/showimg/15.png)
-![](./static/showimg/16.png)
+<img src="./static/showimg/1.png" style="zoom: 25%;" />
+<img src="./static/showimg/2.png" style="zoom: 25%;" />
+<img src="./static/showimg/3.png" style="zoom: 25%;" />
+<img src="./static/showimg/4.png" style="zoom: 25%;" />
+<img src="./static/showimg/5.png" style="zoom: 25%;" />
+<img src="./static/showimg/6.png" style="zoom: 25%;" />
+<img src="./static/showimg/7.png" style="zoom: 25%;" />
+<img src="./static/showimg/8.png" style="zoom: 25%;" />
+<img src="./static/showimg/9.png" style="zoom: 25%;" />
+<img src="./static/showimg/10.png" style="zoom: 25%;" />
+<img src="./static/showimg/11.png" style="zoom: 25%;" />
+<img src="./static/showimg/12.png" style="zoom: 25%;" />
+<img src="./static/showimg/13.png" style="zoom: 25%;" />
+<img src="./static/showimg/14.png" style="zoom: 25%;" />
+<img src="./static/showimg/15.png" style="zoom: 25%;" />
+<img src="./static/showimg/16.png" style="zoom: 25%;" />
 
 
 Usage:
