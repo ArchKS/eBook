@@ -21,25 +21,25 @@
 </p>
 
 <p float="left">
-<img src="./static/showimg/5.png" width="100" />
-<img src="./static/showimg/6.png" width="100" />
-<img src="./static/showimg/7.png" width="100" />
-<img src="./static/showimg/8.png" width="100" />
+<img src="./static/showimg/5.png" width="24%" />
+<img src="./static/showimg/6.png" width="24%" />
+<img src="./static/showimg/7.png" width="24%" />
+<img src="./static/showimg/8.png" width="24%" />
 <p>
 
 <p float="left">
-<img src="./static/showimg/9.png" width="194px" />
-<img src="./static/showimg/10.png" width="194px" />
-<img src="./static/showimg/11.png" width="194px" />
-<img src="./static/showimg/12.png" width="194px" />
+<img src="./static/showimg/9.png"  width="25%" />
+<img src="./static/showimg/10.png" width="25%" />
+<img src="./static/showimg/11.png" width="25%" />
+<img src="./static/showimg/12.png" width="25%" />
 </p>
 
 
 <p float="left">
-<img src="./static/showimg/13.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/14.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/15.png" style="width: 194px; height: 336px;" />
-<img src="./static/showimg/16.png" style="width: 194px; height: 336px;" />
+<img src="./static/showimg/13.png"  width="25%" />
+<img src="./static/showimg/14.png" width="25%" />
+<img src="./static/showimg/15.png" width="25%" />
+<img src="./static/showimg/16.png" width="25%" />
 </p>
 
 Usage:
