@@ -1,7 +1,5 @@
 🎈 描述：基于Vue3开发的书城项目
 
-🎈 原作者地址： https://coding.imooc.com/learn/list/285.html
-
 🎈 总结：https://ymlog.cn/2021/01/22/前端 WebBookApp总结/
 
 🎈 Github仓库地址：https://github.com/ArchKS/eBook
